@@ -36,3 +36,9 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+.form-control {
+    background-color: #eee4ff;
+}
+.breadcrumb {
+    background-color: #D1C4E9;
+}
