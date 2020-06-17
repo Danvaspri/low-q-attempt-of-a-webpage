@@ -42,3 +42,16 @@ body{
 .breadcrumb {
     background-color: #D1C4E9;
 }
+.card-header {
+    background-color: rgb(255, 200, 80);
+}
+#reservebuttom {
+    background-color: rgb(255, 200, 80);
+    color:#0f0f0f;
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
